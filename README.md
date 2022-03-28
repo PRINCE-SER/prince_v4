@@ -23,14 +23,14 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PRINCE-SER/PRINCE-SER-Qr-test?v=1)
 
 ## `DEPLOY`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PRINCE-SER/prince_v3) 
 ----------
 
 
@@ -58,7 +58,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GpVkmg15dja2gqkUFZ3jNC)
   <div align="center">
 
 
